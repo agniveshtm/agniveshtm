@@ -4,7 +4,7 @@
 ```
 // hello, world
 ```
-<img src="GT.gif" width="50%" alt="coding gif" />
+<img src="GT.gif" width="10%" alt="coding gif" />
 
 # Agnivesh Manojkumar
 
