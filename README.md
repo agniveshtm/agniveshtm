@@ -4,7 +4,7 @@
 ```
 // hello, world
 ```
-
+<img src="Ichigo.gif" width="100%" alt="coding gif" />
 # Agnivesh Manojkumar
 
 **CS Student · Co-Founder · ML & Web Developer**
