@@ -8,7 +8,7 @@
 
 # Agnivesh Manojkumar
 
-**CS Student · Co-Founder · ML & Web Developer**
+**CS Student · Vibe-Coder · ML & Web Developer**
 
 Building at the intersection of machine learning, web development, and design.
 Currently deep in Django, Linux sysadmin, and generative AI.
