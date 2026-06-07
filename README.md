@@ -6,7 +6,7 @@
 ```
 <img src="GT.gif" width="150" alt="coding gif" />
 
-# Agnivesh Manojkumar
+# Hey I'm Agnivesh
 
 **CS Student · Vibe-Coder · ML & Web Developer**
 
