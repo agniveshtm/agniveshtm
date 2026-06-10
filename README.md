@@ -82,11 +82,11 @@ Currently deep in Django, Linux sysadmin, and generative AI.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=agniveshtm&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agniveshtm&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
