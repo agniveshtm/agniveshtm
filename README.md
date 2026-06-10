@@ -4,7 +4,7 @@
 ```
 // hello, world
 ```
-<img src="GI.gif" width="150" alt="coding gif" />
+<img src="GT.gif" width="150" alt="coding gif" />
 
 # Hey I'm Agnivesh
 
