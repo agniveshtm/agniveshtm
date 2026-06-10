@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-// hello, world.
+// hello, world
 ```
 <img src="GT.gif" width="150" alt="coding gif" />
 
@@ -92,11 +92,15 @@ Currently deep in Django, Linux sysadmin, and generative AI.
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=agniveshtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agniveshtm/agniveshtm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agniveshtm/agniveshtm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/agniveshtm/agniveshtm/output/github-snake.svg" />
+</picture>
 
 </div>
 
