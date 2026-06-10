@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-// hello, world
+// hello, world.
 ```
 <img src="GT.gif" width="150" alt="coding gif" />
 
