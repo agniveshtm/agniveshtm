@@ -86,7 +86,7 @@ Currently deep in Django, Linux sysadmin, and generative AI.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agniveshtm&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://raw.githubusercontent.com/agniveshtm/agniveshtm/output/activity-graph.svg)
 
 </div>
 
