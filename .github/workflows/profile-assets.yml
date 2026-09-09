@@ -2,8 +2,7 @@ name: Generate GitHub Profile Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # 00:00 UTC
-    - cron: "0 12 * * *"   # 12:00 UTC
+    - cron: "15 */12 * * *"   # 00:15 and 12:15 UTC
   workflow_dispatch:
 
 jobs:
@@ -14,6 +13,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
+
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
